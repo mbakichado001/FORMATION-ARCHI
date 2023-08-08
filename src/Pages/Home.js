@@ -71,7 +71,7 @@ export function Albert() {
 export default function Navbar () {
     return(
         <>
-        <h1>Mon premier paragraphe</h1>
+        <h1>LES REVES</h1>
         <Parole/>
         </>
         

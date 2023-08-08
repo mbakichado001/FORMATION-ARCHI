@@ -9,21 +9,21 @@ import { Kanza } from './Pages/Home';
 function App() {
   return (
     <>
-    <Navbar/>
-    <ul>
-      <il>
-        <Audrey/>
-      </il>
-      <il>
-        <Albert/>
-      </il>
-      <il>
-        <Tegra/>
-      </il>
-      <il>
-        <Kanza/>
-      </il>
-    </ul>
+      <Navbar/>
+      <ul>
+        <il>
+          <Audrey/>
+        </il>
+        <il>
+          <Albert/>
+        </il>
+        <il>
+          <Tegra/>
+        </il>
+        <il>
+          <Kanza/>
+        </il>
+      </ul>
 
     </>
     
